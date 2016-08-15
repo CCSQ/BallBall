@@ -1,0 +1,18 @@
+{
+  "collision-matrix": [
+    [
+      false,
+      false
+    ],
+    [
+      false,
+      true
+    ]
+  ],
+  "excluded-modules": [],
+  "group-list": [
+    "default",
+    "cle"
+  ],
+  "start-scene": "current"
+}
